@@ -14,9 +14,9 @@ h4{color: #61677A; font-weight: bold;}
 p{color: #272829;}
 ul{color: #61677A;}
 h3{color: #61677A;}
-a{color: orangered;}
-#dark{background-color: #272829;}
+a{color: orangered; text-decoration: none; }
+.centre{text-align: center; text-decoration: none; list-style-type: none;}
 .orange{color: orangered;}
 ul{font-weight: bold;}
-.educationlist{color: #272829;}
+.educationlist{color: #61677A; font-size: 1rem;}
 footer{text-align: right;}
