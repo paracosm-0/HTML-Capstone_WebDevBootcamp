@@ -1,0 +1,19 @@
+h1{text-align: center; font-family: sans-serif; font-size: 40px; color:#61677A; font-weight: bold;}
+.profile{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+  }
+*{font-family: sans-serif; background-color: #FFF6E0;}
+h2{color: #61677A; font-weight: bold; font-size: 1.8em;}
+h3{color: #61677A; font-weight: bold;}
+h4{color: #61677A; font-weight: bold;}
+
+.txt{color: #272829;}
+#paragraph{font-weight: 400; font-size: medium; font-family: sans-serif;}
+p{color: #272829;}
+ul{color: #61677A;}
+h3{color: #61677A;}
+a{color: orangered;}
+#dark{background-color: #272829;}
+.orange{color: orangered;}
